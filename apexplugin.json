@@ -28,7 +28,7 @@
                 "internalName": "RW.APEX.CLASSIC.REPORT.STICKY.COLUMNS",
                 "type": "dynamic action",
                 "demo": "https://apex.oracle.com/pls/apex/f?p=103428",
-                "previewImage": "https://raw.githubusercontent.com/RonnyWeiss/APEX-Interactive-Report-keep-Scroll-Position/refs/heads/main/screenshot.gif"
+                "previewImage": "https://github.com/RonnyWeiss/APEX-Keep-Scroll-Position-for-Interactive-Report/blob/main/screenshot.gif?raw=true"
             }
         }
     }

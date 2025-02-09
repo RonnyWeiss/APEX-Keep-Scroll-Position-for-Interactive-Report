@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/ORACLE-APEX-success.svg) ![](https://img.shields.io/badge/Plug--in_Type-Dynamic_Action-orange.svg)
 
-![Screenshot](https://raw.githubusercontent.com/RonnyWeiss/APEX-Interactive-Report-keep-Scroll-Position/refs/heads/main/screenshot.gif)
+![Screenshot](https://github.com/RonnyWeiss/APEX-Keep-Scroll-Position-for-Interactive-Report/blob/main/screenshot.gif?raw=true)
 
 This Dynamic Action Plug-in can save the current scroll position of the Interactive Report in the Client Side Session Storage and restore it if required, e.g. on page load after a row has been changed on a form page.
 
