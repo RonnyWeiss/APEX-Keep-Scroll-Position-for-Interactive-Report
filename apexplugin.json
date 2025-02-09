@@ -25,7 +25,7 @@
         "apex": {
             "versions": ["21.1", "21.2", "22.1", "22.2", "23.1", "23.2", "24.1", "24.2"],
             "plugin": {
-                "internalName": "RW.APEX.CLASSIC.REPORT.STICKY.COLUMNS",
+                "internalName": "RW.APEX.IR.KEEP.SCROLL.POSITION",
                 "type": "dynamic action",
                 "demo": "https://apex.oracle.com/pls/apex/f?p=103428",
                 "previewImage": "https://github.com/RonnyWeiss/APEX-Keep-Scroll-Position-for-Interactive-Report/blob/main/screenshot.gif?raw=true"
