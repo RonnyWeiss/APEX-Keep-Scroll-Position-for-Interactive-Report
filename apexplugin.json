@@ -1,6 +1,6 @@
 {
     "name": "APEX Keep Scroll Position for Interactive Report",
-    "version": "25.02.01",
+    "version": "25.02.10",
     "description": "This Dynamic Action Plug-in can save the current scroll position of the Interactive Report in the Client Side Session Storage and restore it if required, e.g. on page load after a row has been changed on a form page.<p><b>Important clarification: My work in the development team of Oracle APEX is in no way related to my open source projects or the plug-ins here on apex.world! All plug-ins are built in my spare time and are not supported by Oracle!</b></p>",
     "keywords": ["oracle", "apex", "plugin", "dynamic action"],
     "homepage": "https://github.com/RonnyWeiss/APEX-Keep-Scroll-Position-for-Interactive-Report",

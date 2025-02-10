@@ -74,7 +74,7 @@ wwv_flow_api.create_plugin(
 ,p_substitute_attributes=>true
 ,p_subscribe_plugin_settings=>true
 ,p_help_text=>'That Dynamic Action Plug-in is used to keep the current Scroll Position for Interactive Reports'
-,p_version_identifier=>'25.02.09'
+,p_version_identifier=>'25.02.10'
 ,p_about_url=>'https://ronnyweiss.app'
 ,p_files_version=>1716
 );
